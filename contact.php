@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>CSS3_design_two</title>
+  <title>Happy Healthy Living and Up-cycled Beauty</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -16,32 +16,15 @@
     <header>
       <div id="logo">
         <!-- class="logo_colour", allows you to change the colour of the text -->
-        <h1><a href="index.html">CSS3<span class="logo_colour">design</span>_two</a></h1>
+        <h1><a href="index.html">Contact<span class="logo_colour"> Me</span></a></h1>
       </div>
       <nav>
         <ul class="sf-menu" id="nav">
           <li><a href="index.html">Home</a></li>
-          <li><a href="examples.html">Examples</a></li>
-          <li><a href="page.html">A Page</a></li>
-          <li><a href="another_page.html">Another Page</a></li>
-          <li><a href="#">Example Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down One</a></li>
-              <li><a href="#">Drop Down Two</a>
-                <ul>
-                  <li><a href="#">Sub Drop Down One</a></li>
-                  <li><a href="#">Sub Drop Down Two</a></li>
-                  <li><a href="#">Sub Drop Down Three</a></li>
-                  <li><a href="#">Sub Drop Down Four</a></li>
-                  <li><a href="#">Sub Drop Down Five</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down Three</a></li>
-              <li><a href="#">Drop Down Four</a></li>
-              <li><a href="#">Drop Down Five</a></li>
-            </ul>
-          </li>
-          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="recipes.html">Recipes</a></li>
+          <li><a href="crafts.html">Up-cycled Crafts</a></li>
+          <li><a href="contact.php">Contact Me</a></li>
         </ul>
       </nav>
     </header>
@@ -133,7 +116,7 @@
       </div>
     </div>
     <footer>
-      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.php">Contact Us</a></p>
+      <p><a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="recipes.html">Recipes</a> | <a href="crafts.html">Up-cycled Crafts</a> | <a href="contact.php">Contact Me</a></p>
       <p>Copyright &copy; CSS3_design_two | <a href="http://www.css3templates.co.uk">design from css3templates.co.uk</a></p>
     </footer>
     <p>&nbsp;</p>
