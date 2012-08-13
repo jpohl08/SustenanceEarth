@@ -21,41 +21,28 @@
       <nav>
         <ul class="sf-menu" id="nav">
           <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="recipes.html">Recipes</a></li>
           <li><a href="crafts.html">Up-cycled Crafts</a></li>
-          <li><a href="contact.php">Contact Me</a></li>
+          <li><a href="recipes.html">Recipes</a></li>
         </ul>
       </nav>
     </header>
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
-          <h1>Latest News</h1>
-          <h2>New Website Launched</h2>
-          <p>We've redesigned our own website. Take a look around and let us know what you think.</p>
+          <h1>Contact Me</h1>
+          <h2>Don't' Be Shy</h2>
+          <p>As this a new site I am welcome to input and suggestions. My future plans include comment functionality, the ability to search my site, and start sponsoring other sites! Please say hi and let me know what you think.</p>
         </div>
         <div class="sidebar">
-          <h1>Special Offers</h1>
-          <h2>20% Discount</h2>
-          <p>For the month of July 2012, we are offering a 20% discount for all new visitors.</p>
-        </div>
-        <div class="sidebar">
-          <h1>Contact Us</h1>
-          <p>We'd love to hear from you. Call us, <a href="#">email us</a> or complete our <a href="contact.php">contact form</a>.</p>
+          <h1>Follow Me</h1>
+          <div class="center">
+		<a href="http://facebook.com/sustenanceearth.com"><img src="images/FaceBook.png"/></a>
+	  	<a href="https://pinterest.com/sustenanceearth"><img src="images/Pinterest.png"/></a>
+	  </div>
         </div>
       </div>
-      <div id="content">
-        <ul class="slideshow">
-          <li class="show"><img width="706" height="316" src="images/1.jpg" alt="image one" /></li>
-          <li><img width="706" height="316" src="images/2.jpg" alt="image two" /></li>
-          <li><img width="706" height="316" src="images/3.jpg" alt="image three" /></li>
-          <li><img width="706" height="316" src="images/4.jpg" alt="image four" /></li>
-          <li><img width="706" height="316" src="images/5.jpg" alt="image five" /></li>
-        </ul>
-        <div id="content_item">
-          <h1>Contact Us</h1>
-          <p>Say hello, using this contact form.</p>
+          <h1>Contact Me</h1>
+          <p>Say hello and send suggestions, requests, or questions.</p>
           <?php
             // This PHP Contact Form is offered &quot;as is&quot; without warranty of any kind, either expressed or implied.
             // David Carter at www.css3templates.co.uk shall not be liable for any loss or damage arising from, or in any way
@@ -67,9 +54,9 @@
             // 1. Enter the email address you would like the enquiry sent to
             // 2. Enter the subject of the email you will receive, when someone contacts you
             // 3. Enter the text that you would like the user to see once they submit the contact form
-            $to = 'enter email address here';
-            $subject = 'Enquiry from the website';
-            $contact_submitted = 'Your message has been sent.';
+            $to = 'customerservice_js@sustenanceearth.com';
+            $subject = 'SustenanceEarth Comment';
+            $contact_submitted = 'Thank You! Your message has been sent.';
 
             // Do not amend anything below here, unless you know PHP
             function email_is_valid($email) {
@@ -116,7 +103,7 @@
       </div>
     </div>
     <footer>
-      <p><a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="recipes.html">Recipes</a> | <a href="crafts.html">Up-cycled Crafts</a> | <a href="contact.php">Contact Me</a></p>
+      <p><a href="index.html">Home</a> |<a href="crafts.html">Up-cycled Crafts</a> | <a href="recipes.html">Recipes</a> | <a href="about.html">About | <a href="contact.php">Contact Me</a></p>
       <p>Copyright &copy; CSS3_design_two | <a href="http://www.css3templates.co.uk">design from css3templates.co.uk</a></p>
     </footer>
     <p>&nbsp;</p>
