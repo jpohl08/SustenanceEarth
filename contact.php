@@ -30,7 +30,6 @@
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
-          <h1>Contact Me</h1>
           <h2>Don't' Be Shy</h2>
           <p>As this a new site I am welcome to input and suggestions. My future plans include comment functionality, the ability to search my site, and start sponsoring other sites! Please say hi and let me know what you think.</p>
         </div>
@@ -43,7 +42,7 @@
         </div>
       </div>
           <h1>Contact Me</h1>
-          <p>Say hello and send suggestions, requests, or questions.</p>
+          <p>Unfortunately our current contact form is not working. I'm working to fix it and hopefully will have it up and running soon. However I would still love to hear from you! Please email me at <a 			href=mailto:sustenanceearth@gmail.com>sustenanceearth@gmail.com</a></p>
           <?php
             // This PHP Contact Form is offered &quot;as is&quot; without warranty of any kind, either expressed or implied.
             // David Carter at www.css3templates.co.uk shall not be liable for any loss or damage arising from, or in any way
