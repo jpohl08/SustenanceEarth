@@ -54,7 +54,7 @@
             // 1. Enter the email address you would like the enquiry sent to
             // 2. Enter the subject of the email you will receive, when someone contacts you
             // 3. Enter the text that you would like the user to see once they submit the contact form
-            $to = "customerservice_js@sustenanceearth.com";
+            $to = "mike.schober@gmail.com";
             $subject = "SustenanceEarth Comment";
             $contact_submitted = "Thank You! Your message has been sent.";
 
