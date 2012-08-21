@@ -37,7 +37,7 @@
           <h1>Follow Me</h1>
           <div class="center">
 		<a href="http://facebook.com/sustenanceearth"><img src="images/FaceBook.png"/></a>
-	  	<a href="https://pinterest.com/sustenanceearth"><img src="images/Pinterest.png"/></a>
+	  	<a href="https://pinterest.com/sustenanceearth"><img src="images/pinterest_icon.png"/></a>
 	  </div>
         </div>
       </div>
