@@ -27,7 +27,7 @@
         </ul>
       </nav>
     </header>
-    <div id="site_content">
+    <div id="site_content" class="padded">
       <div id="sidebar_container">
         <div class="sidebar">
           <h2>Don't' Be Shy</h2>
@@ -88,7 +88,7 @@
               $headers = "From: ".$youremail;
               if (email_is_valid($youremail) && !eregi("\r",$youremail) && !eregi("\n",$youremail) && $yourname != "" && $yourmessage != "" && substr(md5($user_answer),5,10) === $answer) {
                 mail($to,$subject,$message,$headers);
-                error_log("to " . $to . " subject " . $subject . " message " . $subject . " headers " . $headers)
+		error_log("oops");
                 $yourname = '';
                 $youremail = '';
                 $yourmessage = '';
