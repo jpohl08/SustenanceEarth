@@ -82,6 +82,7 @@ h6 {
 
 a, a:hover { 
   background: transparent;
+  text-decoration: none;
   outline: none;
   color: #05CCDE;
 }
@@ -257,12 +258,10 @@ footer {
 
 footer a, footer a:hover { 
   color: #FFF;
-  text-decoration: underline;
 }
 
 footer a:hover { 
   color: #FFF;
-  text-decoration: none;
 }
 
 .form_settings { 
@@ -480,4 +479,5 @@ span.right-padded {
 .padded {
   padding: 0px 0px 0px 10px;
 }
+
 
