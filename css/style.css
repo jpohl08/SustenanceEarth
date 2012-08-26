@@ -19,11 +19,6 @@ html {
   padding: 0;
 }
 
-/* Jennies defined css */
-span.right-padded {
-    padding: 0 20px 0 0;
-}
-
 /* tell the browser to render HTML 5 elements as block */
 article, aside, figure, footer, header, hgroup, nav, section { 
   display:block;
@@ -145,6 +140,7 @@ ol li {
   margin-right: auto;
 }
 
+
 #main { 
   width: 950px;
   margin: 20px auto;
@@ -191,7 +187,6 @@ nav {
   width: 950px;
   overflow: hidden;
   margin: 44px auto 0 auto;
-  padding: 0px 0px 0px 0px;
   background: #FFF url(../images/site_content.png) repeat-y;
   border-top: 0;
   border-bottom: 0;
@@ -477,3 +472,13 @@ ul#nav ul li a {
 ul#nav li a:hover,ul#nav li a:focus { 
   color: #05CCDE;
 }
+
+/* Jennies defined css */
+span.right-padded {
+    padding: 0 20px 0 0;
+}
+
+.padded {
+  padding: 0px 0px 0px 10px;
+}
+
