@@ -2,9 +2,9 @@
 <html>
 
 <head>
-  <title>Happy Healthy Living and Upcycled Beauty</title>
-  <meta name="description" content="website description" />
-  <meta name="keywords" content="website keywords, website keywords" />
+  <title>SustenanceEarth | Contact</title>
+  <meta name="description" content="Contact the artist of SustenanceEarth" />
+  <meta name="keywords" content="contact, artist" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <link rel="shortcut icon" href="images/earth_favicon.png" type="image/x-icon" />
@@ -31,7 +31,11 @@
       <div id="sidebar_container">
         <div class="sidebar">
           <h2>Don't' Be Shy</h2>
-          <p>As this a new site I am welcome to input and suggestions. My future plans include comment functionality, the ability to search my site, and start sponsoring other sites! Please say hi and let me know what you think.</p>
+          <p>
+             As this a new site I am welcome to input and suggestions. 
+             My future plans include comment functionality, the ability to search my site, 
+             and start sponsoring other sites! Please say hi and let me know what you think.
+          </p>
         </div>
         <div class="sidebar">
           <h1>Follow Me</h1>
@@ -42,7 +46,13 @@
         </div>
       </div>
           <h1>Contact Me</h1>
-          <p>Unfortunately our current contact form is not working. I'm working to fix it and hopefully will have it up and running soon. However I would still love to hear from you! Please email me at <a 			href=mailto:sustenanceearth@gmail.com>sustenanceearth@gmail.com</a></p>
+          <p>
+                Unfortunately our current contact form is not working. 
+                I'm working to fix it and hopefully will have it up and running soon. 
+                However I would still love to hear from you! Please email me at 
+                <a href=mailto:sustenanceearth@gmail.com>sustenanceearth@gmail.com</a>
+          </p>
+
           <?php
             // This PHP Contact Form is offered &quot;as is&quot; without warranty of any kind, either expressed or implied.
             // David Carter at www.css3templates.co.uk shall not be liable for any loss or damage arising from, or in any way
@@ -55,7 +65,7 @@
             // 2. Enter the subject of the email you will receive, when someone contacts you
             // 3. Enter the text that you would like the user to see once they submit the contact form
             $to = "mike.schober@gmail.com";
-            $subject = "SustenanceEarth Comment";
+            $subject = "[SustenanceEarth Comment]";
             $contact_submitted = "Thank You! Your message has been sent.";
 
             // Do not amend anything below here, unless you know PHP
@@ -78,6 +88,7 @@
               $headers = "From: ".$youremail;
               if (email_is_valid($youremail) && !eregi("\r",$youremail) && !eregi("\n",$youremail) && $yourname != "" && $yourmessage != "" && substr(md5($user_answer),5,10) === $answer) {
                 mail($to,$subject,$message,$headers);
+                error_log("to " . $to . " subject " . $subject . " message " . $subject . " headers " . $headers)
                 $yourname = '';
                 $youremail = '';
                 $yourmessage = '';
