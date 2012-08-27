@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>SustenaceEarth | Southern French Crepe Recipe</title>
+  <meta name="description" content="This Authentic Southern French Crepe recipe is an indulgence that won't leave you feeling guilty. It's perfection stuffed with your favorite fruit, cream cheese, or   nutella." />
+  <meta name="keywords" content="crepe,strawberries,whipped cream,indulgence" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <link rel="shortcut icon" href="images/earth_favicon.png" type="image/x-icon" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <!-- class="logo_colour", allows you to change the colour of the text -->
+        <h1><a href="index.html">Southern French<span class="logo_colour"> Crepe</span></a></h1>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="crafts.html">Upcycled Crafts</a></li>
+          <li><a href="recipes.html">Recipes</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+      <div id="sidebar_container">
+       	<div class="sidebar">
+          <h1>Follow Me</h1>
+         <div class="center">
+		<a href="http://facebook.com/sustenanceearth"><img src="images/facebook_icon.png"/></a>
+	  	<a href="https://pinterest.com/sustenanceearth"><img src="images/pinterest_icon.png"/></a>
+	  </div>
+        </div>
+      </div>
+      <div id="content">
+        <div id="content_item">
+	   <h2>8-26-2012</h2>
+	   <h1>Authentic Southern French Crepe</h1>
+	   <span class="left"><img src="images/crepe/crepe_small.png" alt="Strawberry and Whipped Cream Crepe on a Garnished Plate"/></span>
+ 		<p>Bojour! About a month ago our family hosted a young man named Jules from Nantes, France. In his home town he lived above a creperie and as a thank you he cooked and shared with us this recipe for French Crepes.  This recipe is definitely an indulgence, but even the healthiest of us need those every now and then. Whether you prefer to add sweet fillings, my favorite being fresh strawberries and whipped cream, or savory fillings, such as smoked salmon and feta cheese, this is a delicious recipe for Sunday Brunch or any day of the week. Bon Appetit!
+		<p> <strong>Note:</strong> This recipe makes roughly 10 - 12 crepes.</p>
+	    <span class="center"><span class="right-padded"><img src="images/crepe/crepe_ingredients.png" alt="Ingredients crepe, Flour, Fresh Strawberries, Fat Free Milk, Salt, Vanilla Extract, Eggs, and Captian Morgan's Rum"/></span><img src="images/crepe/crepe_supplies.png" alt="Bowl, Measure cups, Spatula, Whisk, and Skillet"/></span>
+	<div class="left">
+		<h2>Ingredients:</h2>
+		 <ul>
+               		<li>1 1/4 cup Flour</li>
+           		<li>3 Eggs</li>
+           		<li>2 cups Milk</li>
+               		<li>Pinch of Salt</li>
+              		<li>1 capful of Vanilla Extract</li>
+			<li>Butter (for rubbing on skillet)</li>
+			<li><strong>Optional:</strong> 1 capful of Rum</li>
+        	 </ul>
+	</div>
+	<div class="right right-margin">
+		<h2>Supplies:</h2>
+		<ul>
+			<li>Medium Bowl</li>
+			<li>Dry Measuring Cups</li>
+			<li>Liquid Measuring Cup</li>
+			<li>Whisk</li>
+			<li>Plastic Wrap</li>
+			<li>Skillet</li>
+			<li>Spatula</li>
+        </ul>
+	</div>
+    <div class="down-left"><h2>Directions:</h2></div>
+	<ol>
+		<li>Measure out the flour and place into a medium bowl. Use your hands to make a large crater in the center of the flour.</li>
+	<span class="center"><img src="images/crepe/flour_crater.png" alt="Flour shaped into a crater inside a teal bowl." /></span>
+		<li>Crack the 3 eggs into the center of the flour crater. Next, add only a little bit of milk to the eggs in the center of the flour crater.</li>
+	<span class="center"><span class="right-padded"><img src="images/crepe/eggs_in_flour.png" alt="Three eggs, yolks and whites, inside flour crater in teal bowl."/></span><img src="images/crepe/milk_eggs.png" alt="Eggs and Milk inside flour crater"/></span>
+		<li>Using your whisk pop the egg yolks. Start by mixing just the center contents of the crater. As that starts to thicken, add a little more milk and flour from the sides of the crater and 	continue to whisk. Continue adding milk and taking flour from the sides of the crater until all of the milk and flour is throughly whisked in. Be forewarned that this will be a whisking frenzy!</li>
+		<span class="right"><img src="images/crepe/addingsalt.png" alt="Hand holding a pinch of salt over a bowl of crepe mix"/></span>
+		<li>Once you've finished whisking the flour/egg/milk mixture add a pinch of salt, capful of vanilla, and, if you choose, capful of rum. Whisk to fully combine these ingredients.</li>
+		<span class="left"><img src="images/crepe/rum.png" alt="Pouring a capful of rum into a crepe mixture"/></span>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<li>Cover your crepe batter with plastic wrap and stick in the fridge for a minimum of 30 minutes. This batter could be mixed the night before and stored in the fridge overnight.</li>
+		<li>To cook your crepes, set your burner on a medium to medium-low temperature. Very lightly butter the skillet. Pour about a half a cup of batter into your skillet and swirl the skillet to get a thin even coat. <strong>Note:</strong> the first crepe <i>always</i> turns out badly.</li>
+		<li>The edges of the crepe will start to lift slightly from the pan, at this point you should flip your crepe. You only need to briefly cook the second side of the crepe. Remove crepe from skillet and keep warm as you continue to make the rest of the crepes.</li>
+		<span class="center"><span class="right-padded"><img src="images/crepe/start_crepe.png" alt="Crepe cooking in skillet"/></span><img src="images/crepe/crepe_flip.png" alt="flipped crepe in skillet"/></span>
+	</ol>
+	<p>Enjoy your crepes with an assortment of delicious fillings. We choose to have a very indulgent brunch and had strawberries, whipped cream, nutella, chocolate sauce, and maple syrup.</p>
+	<span class="center"><img src="images/crepe/toppings.png" alt="Crepes, strawberries, whipped cream, chocolate sauce, maple syrup, nutella, and a plate sitting on top of a brown table"/></span>
+	<p>I hope that you enjoy this recipe as much as my family does! Like me on<a href="http://facebook.com/sustenanceearth"> FaceBook</a> and tell me what your favorite fillings and toppings are! 
+	<span class="center"><img src="images/crepe/strawberry_crepe.png" alt="Crepe filled with strawberries and topped with whipped cream and more strawberries sitting on a plate garnished with chocolate sauce."/></span>
+	<p>Click <a href="recipes.html"> here</a> for more great recipes!</p>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p><a href="index.html">Home</a> |
+         <a href="crafts.html">Upcycled Crafts</a> |
+         <a href="recipes.html">Recipes</a> |
+         <a href="about.html">About</a> |
+         <a href="contact.php">Contact Me</a>
+      </p>
+      <p>Copyright &copy; CSS3_design_two |
+         Design: <a href="http://takeflightsites.com">Take Flight Sites</a> | 
+         Template: <a href="http://www.css3templates.co.uk">css3templates.co.uk</a>
+      </p>
+    </footer>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
