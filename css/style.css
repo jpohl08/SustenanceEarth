@@ -123,10 +123,18 @@ ol li {
   margin-right: 10px;
 }
 
+.down-left {
+  margin-top: 20em;
+}
+
 .right { 
   float: right; 
   width: auto;
   margin-left: 10px;
+}
+
+.right-margin {
+  margin-right: 10em;
 }
 
 .center { 
