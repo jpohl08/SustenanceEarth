@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>SustenaceEarth | Etched Salad Dressing Container</title>
+  <meta name="description" content="Etch an old olive oil bottle and give it new life as a salad dressing bottle!" />
+  <meta name="keywords" content="upcycled, bottle, etched, etching, glass" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <link rel="shortcut icon" href="images/earth_favicon.png" type="image/x-icon" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <!-- class="logo_colour", allows you to change the colour of the text -->
+        <h1><a href="index.html">Etched Salad Dressing<span class="logo_colour"> Bottle</span></a></h1>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="crafts.html">Upcycled Crafts</a></li>
+          <li><a href="recipes.html">Recipes</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+      <div id="sidebar_container">
+       	<div class="sidebar">
+          <h1>Follow Me</h1>
+         <div class="center">
+		<a href="http://facebook.com/sustenanceearth"><img src="images/facebook_icon.png"/></a>
+	  	<a href="https://pinterest.com/sustenanceearth"><img src="images/pinterest_icon.png"/></a>
+		<a href="https://twitter.com/SustEarth_Jenn"><img src="images/twitter_icon.png"/></a>
+	  </div>
+        </div>
+      </div>
+      <div id="content">
+        <div id="content_item">
+	   <h2>8-28-2012</h2>
+	   <h1>Etched Glass Salad Dressing Bottle</h1>
+	   <span class="left"><img src="images/salad_bottle/salad_bottle_upright.png" alt="Glass bottle filled with red liquid with the word salad etched on the side."/></span>
+ 		<p>My husband I and go through <i>a lot</i> of salad. I mean enough to buy the Costco sized packs of lettuce, cheese, and croutons. I was thinking about how neat it would be if I could learn to make my own salad dressing, which will be the focus in my next recipe post. In the mean time, I decided what I really needed an easy pour container to hold my new recipe. As luck would have it I just used the last of my Oil Olive which was held in a bottle with a fancy pour spout. So, in true upcycle fashion, I decided to spice up the bottle and give it a new life as my "salad dressing bottle". Enjoy, Be Inspired, and Create some Upcycled Beauty for yourself!</p>
+	   <span class="center"><img src="images/salad_bottle/etching_supplies.png" alt="Contact Paper, Armour Etch, Glass Bottle, Exacto Knife, and Stickers"/></span>
+		<h2>What You Will Need:</h2>
+		 <ul>
+                   <li>Old Olive Oil Bottle -OR - Any Bottle with a Pour Spout</li>
+                   <li>Contact Paper</li>
+	           <li>Letter Stickers</li>
+                   <li>Exacto Knife</li>
+                   <li>Armour Etch -OR- Glass Etching Cream</li>  
+		   <li>Paint Brush</li>
+                   <li>Protective Gloves</li>
+		</ul>
+		<h2>Directions:</h2>
+                  <p>Remove the any labeling and stickiness from your bottle. Once your bottle is clean and dry apply the contact paper to the side you will be etching. Be sure to press out any bubbles in the contact paper as best as you can so you don't get any leaks in the etch.</p>
+	  <span class="left"><img src="images/salad_bottle/contact_bottle.png" alt="Stripped contact paper covering a bottle"/></span>
+		  <p>Next apply the stickers to the contact paper. I choose to spell salad, but you could use any word you'd like.</p>
+	  <span class="right"><img src="images/salad_bottle/stickers.png" alt="The word Salad spelled out with stickers in the side of a bottle covered with contact paper."/></span>	
+	  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	  <p>Use your exacto knife to trace around the edges of the letter, essentially cutting the letters out of the contact paper. Once you've traced around the sticker you can remove it and use your exacto knife to lift the cut out letters.</p>
+	 <span class="center"><img src="images/salad_bottle/salad_cut.png" alt="The word salad cut out of contact paper on glass bottle."/></span>       
+	<p>Now it's time to use the Armour Etch. <strong>Note:</strong> Please follow all the safety precautions and directions on the Armour Etch or any glass etching cream you use. Following the directions on the armour etch, put on my safety gloves and use the paint brush to apply a liberal amount of etching cream, covering the letters. Rinse off the paint brush and allow the cream to set for 60 seconds. Immediately rinses the entire bottle off in the sink. Wipe the bottle dry and remove the contact paper.</p>
+	 <span class="center"><span class="right-padded"><img src="images/salad_bottle/etching_cream.png" alt="Etching cream on bottle."/></span><img src="images/salad_bottle/final_etch.png" 		       alt="The word Salad etched on to the side of a glass bottle."/></span>
+	 <p>Bringing new life to old and would-be discarded items always makes my day just a little bit brighter! Enjoy your new bottle, and get geared up for my first ever dressing recipe!</p>
+	<span class="center"><img src="images/salad_bottle/finished_bottle.png" alt="Glass bottle filled with red liquid with the word Salad etched on the side."/></span>
+        <p>Click <a hre="crafts.html">Here</a> for more great craft ideas!</p>
+
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p><a href="index.html">Home</a> |
+         <a href="crafts.html">Upcycled Crafts</a> |
+         <a href="recipes.html">Recipes</a> |
+         <a href="about.html">About</a> |
+         <a href="contact.php">Contact Me</a>
+      </p>
+      <p>Copyright &copy; CSS3_design_two |
+         Design: <a href="http://takeflightsites.com">Take Flight Sites</a> | 
+         Template: <a href="http://www.css3templates.co.uk">css3templates.co.uk</a>
+      </p>
+    </footer>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
