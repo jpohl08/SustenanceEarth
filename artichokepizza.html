@@ -24,6 +24,7 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="crafts.html">Upcycled Crafts</a></li>
           <li><a href="recipes.html">Recipes</a></li>
+	  <li><a href="featured.html">Featured</a></li>
         </ul>
       </nav>
     </header>
